@@ -1,0 +1,28 @@
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/
+.product {
+  margin-top: 10px;
+  height: 130px;
+  width: 850px;
+  border-radius: 10px;
+  border: 2px solid rgb(234, 237, 248);
+  background-color: rgb(241, 243, 245);
+  overflow: auto;
+}
+
+.product:hover {
+  background-color: rgb(210, 223, 252);
+}
+
+.product h1 {
+  margin: 0%;
+  padding: 0%;
+}
+
+.product h2 {
+  margin: 0%;
+  padding: 0%;
+}
